@@ -1,2 +1,2 @@
-# webapi-DTO
+Self referencing loop solution with DTO
  
